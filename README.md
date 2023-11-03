@@ -5,4 +5,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-interested in machine learning, NeRF, and VR!
+interested in electronics, ML, innovation, and Security!
